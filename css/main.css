@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+#navigation ul li a{
+    color: green;
+}
+#navigation ul a{
+    color: pink;
+}
